@@ -7,5 +7,5 @@
   a DW is needed for analytical purposes.
 - There is **one fact table** in the DWH, which contains the factual data and **four dimension tables**, which contain all other attributes in the relational database. <br/> 
 - Data warehouse is not known for its data redundancy, instead it aims to provide a **faster processing time** for running ad-hoc queries, 
-which is made possible through replicating information in multiple tables, by way of **lesser number of joins** needed for running ad-hoc queries. 
-- 
+which is made possible through replicating information in multiple tables, which in turn would need **lesser number of joins** for running ad-hoc queries. 
+
